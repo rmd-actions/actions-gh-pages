@@ -2,6 +2,29 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [4.1.0](https://github.com/peaceiris/actions-gh-pages/compare/v4.0.0...v4.1.0) (2026-05-12)
+
+
+### chore
+
+* add .codex/ ([94ae2d2](https://github.com/peaceiris/actions-gh-pages/commit/94ae2d2c73d9417ae30f61ddead523dc54d56dab))
+* add hasInstallScript true ([494ec9b](https://github.com/peaceiris/actions-gh-pages/commit/494ec9b2cc029a46119b4e13ff65f91eacbe1cf3))
+* update Node runtime and dependencies (#1147) ([954f6bf](https://github.com/peaceiris/actions-gh-pages/commit/954f6bf8259a6185f366f5cf13baee63745e0f79)), closes [#1147](https://github.com/peaceiris/actions-gh-pages/issues/1147)
+
+### ci
+
+* change automerge to false ([4b09552](https://github.com/peaceiris/actions-gh-pages/commit/4b09552702d0b65573696410d4707c765da2630b))
+* harden GitHub Actions workflows (#1156) ([aa0466c](https://github.com/peaceiris/actions-gh-pages/commit/aa0466c1792bb558ed327a96629c4dd4ec390e48)), closes [#1156](https://github.com/peaceiris/actions-gh-pages/issues/1156)
+
+### docs
+
+* add repository guidelines ([a1f94b5](https://github.com/peaceiris/actions-gh-pages/commit/a1f94b504729eaee11b94d0f21ef5630241e8a52))
+* bump to v4 from v3 ([a16b61f](https://github.com/peaceiris/actions-gh-pages/commit/a16b61f0780be556cf97931905d261429ee79342))
+* fix note style ([0b7567f](https://github.com/peaceiris/actions-gh-pages/commit/0b7567fde6f7517edcc13d8ffa2d89cd8734d47c))
+* update versions of actions (#1117) ([aa83d0c](https://github.com/peaceiris/actions-gh-pages/commit/aa83d0c2cfc3d813560e13068d3152aa21490171)), closes [#1117](https://github.com/peaceiris/actions-gh-pages/issues/1117)
+
+
+
 # [4.0.0](https://github.com/peaceiris/actions-gh-pages/compare/v3.9.3...v4.0.0) (2024-04-08)
 
 
